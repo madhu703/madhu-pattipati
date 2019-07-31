@@ -21,7 +21,18 @@ line-height:25px;
 .exp-company-header {
 font-size:22px;
 font-weight:bold;
+margin-top:10px;
 }
 .lang-key {
 font-weight:bold;
+}
+.exp-sub-header,.proj-main-headers{
+    font-weight: bold;
+    font-size:20px;
+    margin-top:10px;
+}
+
+hr {
+    color: gray;
+
 }
